@@ -1,2 +1,1 @@
-# ConfigurationAs
-Sophisticated ConfigurationAsCode platform featuring scalable-architecture technology and advanced configurationascode-optimization for modern solution
+.
